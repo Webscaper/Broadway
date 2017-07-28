@@ -1,0 +1,61 @@
+body {
+  text-align: center;
+  font-family: Helvetica;
+}
+
+ul {
+  list-style: none;;
+}
+
+li {
+  margin-top: 5px;
+  margin-bottom: 5px;
+}
+
+h1 {
+  font-size: 70px;
+  font-weight: bold;
+  color: #fff;
+}
+
+h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
+
+a {
+  color: #fff;
+  font-size: 18px;
+}
+
+p {
+  font-size: 14px;
+}
+
+footer h2 {
+  font-size: 23px;
+  font-weight: bold;
+  color: white;
+  background: url('../images/building.png') no-repeat;
+  background-position: right;
+  background-size: cover;
+}
+
+header {
+  background: url('../images/building.png') no-repeat;
+  background-size: cover;
+}
+
+.bottomnav {
+  text-align: left;
+  background-color: dimgray;
+}
+
+.bottomnav li {
+  display: inline;
+  color: white;
+}
+
+#copy {
+  font-size: 11px;
+}
